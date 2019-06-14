@@ -8,8 +8,6 @@ There are two exercises in this workshop, each exercise is program that has a nu
 
 - Once you know the one thing that is wrong, out of place, misspelled, or not giving you what you expect, try to fix it.
 
-Wisest are they who try only one thing to fix the problem. Faffing about trying whatever occurs to you next is a recipe for development hell.
-
 > You should not change the tests, only the code, in this exercise.
 
 ## Setup
